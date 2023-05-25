@@ -8,7 +8,9 @@ const options = [
     { key: "otra", text: "Otra", value: "otra" },
     { key: "estudiar", text: "Estudiar", value: "estudiar" },
     { key: "ahorrar", text: "Ahorrar", value: "ahorrar" },
-    { key: "reunion", text: "Reunion", value: "reunion" }
+    { key: "reunion", text: "Reunion", value: "reunion" },
+    { key: "frontend", text: "Frontend", value: "frontend" }
+
 
 ];
 export default function InputTask(props) {
